@@ -1,0 +1,21 @@
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Seravek', 'Trebuchet MS';
+    position: relative;
+    top: 10px;
+    left: 40px;
+}
+
+svg{
+    color: white;
+    position: relative;
+    right: 150px;
+    left: 50px;
+}
+
+div{
+    position: relative;
+    
+    bottom: 15px;
+}

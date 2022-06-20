@@ -1,0 +1,40 @@
+html {
+    position: relative;
+    top: 100px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    flex-direction: column-reverse;
+    border-radius: 5px;
+}
+
+.first {
+    border: 3px solid plum;
+    align-items: center;
+    padding-left: 52px;
+    padding-right: 52px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    position: relative;
+    right: 175px;
+}
+
+.second {
+    position: relative;
+    border: 3px solid plum;
+    align-items: center;
+    padding-left: 57px;
+    padding-right: 57px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    left: 200px;
+    top: -42px;
+}

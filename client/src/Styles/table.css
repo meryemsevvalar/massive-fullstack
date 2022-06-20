@@ -1,0 +1,57 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    background-color: rgb(138, 58, 138);
+    color: white;
+  }
+  
+  td {
+    background-color: plum;
+    color: purple;
+    padding: 15px;
+    overflow-wrap: break-word;
+  }
+  
+  table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th {
+    padding: 15px;
+ 
+  }
+  
+  input {
+    width: 169px;
+    height: 25px;
+    margin-left: 1100px;
+    border: 2px solid plum;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-family: 'Mukta', sans-serif;
+    color: purple;
+  }
+
+  textarea:focus, input:focus{
+    outline: none;
+}
+
+ ::placeholder {
+    color: purple;
+  }
+  
+  button {
+  background: plum;
+  border: plum;
+  border-radius: 5px;
+  width: 84px;
+  height: 30px;
+  color: white;
+  font-weight: 500;
+  
+  }
+
+  #classification {
+    padding-left: 35px;
+  }
