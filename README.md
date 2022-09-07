@@ -7,6 +7,7 @@ it will be running on port 5000
 
 run client via /
 cd client /
+npm install /
 npm start /
 it will be run on port 3000
 
